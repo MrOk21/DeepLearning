@@ -1,0 +1,1 @@
+If you say a number loud enough its value increases. * 5 = 5 * 5! = 120

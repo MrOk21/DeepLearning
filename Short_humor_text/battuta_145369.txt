@@ -1,0 +1,1 @@
+Have you ever been fooled by the maf method? maf = make-up + angle + filter

@@ -1,0 +1,1 @@
+Yes or no question on a scale of 1-10, what is your favorite color in the alphabet?

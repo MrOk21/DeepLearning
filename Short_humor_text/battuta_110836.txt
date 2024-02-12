@@ -1,0 +1,1 @@
+What method did sfml perform when the human lost to the ai? text.getrect()

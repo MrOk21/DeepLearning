@@ -1,0 +1,1 @@
+Which space on a battleship grid guarantees victory? i1

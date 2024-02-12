@@ -1,0 +1,1 @@
+How do you project confidence? multiply by the cosine of the angle.

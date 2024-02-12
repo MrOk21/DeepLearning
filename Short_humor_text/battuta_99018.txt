@@ -1,0 +1,1 @@
+Hamburger helper only works if the hamburger is ready to accept that it needs help.

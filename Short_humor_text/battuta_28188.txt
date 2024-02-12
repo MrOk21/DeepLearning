@@ -1,0 +1,1 @@
+The word 'nothing' is a palindrome. 'nothing' reversed is 'gnihton' which also means nothing

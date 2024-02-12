@@ -1,0 +1,1 @@
+Why did c++ look down at c? it thought c lacked class. i'll see myself out

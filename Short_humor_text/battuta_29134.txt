@@ -1,0 +1,1 @@
+French app meant to warn of emergencies fails in a big way during attack in nice

@@ -1,0 +1,1 @@
+How did the programmer celebrate his birthday? var celebration = ;

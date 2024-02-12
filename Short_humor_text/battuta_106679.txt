@@ -1,0 +1,1 @@
+What do boats and fourier transforms have in common? both sinc when rect.

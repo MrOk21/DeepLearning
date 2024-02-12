@@ -1,0 +1,1 @@
+If you give a developer a cookie... they'll tell you why it's really better to use local storage.

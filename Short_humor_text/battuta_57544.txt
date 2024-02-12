@@ -1,0 +1,1 @@
+Creating an app called friends with pools. it's exactly what you think it is.

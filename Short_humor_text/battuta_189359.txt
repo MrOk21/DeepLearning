@@ -1,0 +1,1 @@
+Killing enemies give you xp but killing level 0 enemies is pointless.

@@ -1,0 +1,1 @@
+Php dating advice i had a date() with php and i had to mktime() for it.

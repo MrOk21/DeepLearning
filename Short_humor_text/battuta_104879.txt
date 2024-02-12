@@ -1,0 +1,1 @@
+#rudolph > .nose { background: red; border-radius: 50%; @include shiny; }

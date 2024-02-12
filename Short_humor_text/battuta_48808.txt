@@ -1,0 +1,1 @@
+Number of ways to start a terrorist attack: 321 boom!

@@ -1,0 +1,1 @@
+I see isis is finally practicing structured programming. they're eliminating gotos.

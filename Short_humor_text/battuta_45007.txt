@@ -1,0 +1,1 @@
+Why does a mirror reverse things horizontally but not vertically?

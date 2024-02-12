@@ -1,0 +1,1 @@
+How many vowels are in the word 'vowel'? four. o, double-u and e.

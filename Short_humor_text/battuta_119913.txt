@@ -1,0 +1,1 @@
+Name dog. call dog every derivative of that name but the actual name.

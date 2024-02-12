@@ -1,0 +1,1 @@
+Some months have 30 days, some months have 31 days. how many have 28 days? all 12

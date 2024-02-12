@@ -1,0 +1,1 @@
+This chrome extension sends 'the right' the trigger warnings they need

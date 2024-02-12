@@ -1,0 +1,1 @@
+This app sends alerts when donald trump tweets about stocks you own

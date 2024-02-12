@@ -1,0 +1,1 @@
+What is the volume of a pizza of thickness a and radius z? pi z z a

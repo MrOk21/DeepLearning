@@ -1,0 +1,1 @@
+Why can a number divided by zero never be found in the dictionary? because it's undefined.

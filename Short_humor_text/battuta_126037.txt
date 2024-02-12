@@ -1,0 +1,1 @@
+Q: what do you call a series of fdiv  instructions on a pentium? a: successive approximations.

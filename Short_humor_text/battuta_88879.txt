@@ -1,0 +1,1 @@
+Teacher: 24 + x + 30 = 90. find x. student: it's between 24 and 30.

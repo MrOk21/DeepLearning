@@ -1,0 +1,1 @@
+If you open door.jar, is the door still ajar?

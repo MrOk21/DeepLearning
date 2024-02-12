@@ -1,0 +1,1 @@
+Til reddit automatically change your password to asterisks whenever you type it in a comment.
